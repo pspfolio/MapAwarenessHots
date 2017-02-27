@@ -11,6 +11,8 @@ body {
   justify-content: center;
   align-items: center;
   background-image: url('global-bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
   color: #fff;
   text-align: center;
 }
